@@ -7,4 +7,4 @@
 상세위치: 
 설명: UPERFECT 2K WQXGA 16인치 포터블 DEX 휴대용 케이블
 ---
-![](http://192.168.50.22/images/240817_IMG_0104.jpg)
+![](http://192.168.50.22/devices/240817_IMG_0104.jpg)
