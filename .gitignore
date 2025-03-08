@@ -2,7 +2,7 @@
 
 # COMMON
 .DS_Store
-.obsidian/
+# .obsidian/
 
 # Ignore Notes folder
 6.STORAGE/NOTES/
