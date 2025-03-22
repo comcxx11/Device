@@ -2,6 +2,11 @@
 ```dataview
 table 종류, 위치, 상세위치, 갯수, 설명
 from "/"
-where contains(위치, [[TRUNK]])
+where contains(위치, [[HIJKL-T]])
 sort 위치 ASC
 ```
+
+
+
+
+
